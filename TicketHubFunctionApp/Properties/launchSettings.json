@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TicketHubFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "start --verbose --port 7282\r\n"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "2.0",
+  "extensions": {
+    "queues": {
+      "messageEncoding": "none"
+    }
+  },
+  "logging": {
+    "applicationInsights": {
+      "samplingSettings": {
+        "isEnabled": true,
+        "excludedTypes": "Request"
+      },
+      "enableLiveMetricsFilters": true
+    },
+    "logLevel": {
+      "default": "Information",
+      "Function": "Debug",
+      "Host.Results": "Information",
+      "Host.Aggregator": "Trace",
+      "Microsoft": "Warning",
+      "TicketHubFunctionApp": "Debug"
+    },
+    "console": {
+      "isEnabled": true
+    }
+  }
+}

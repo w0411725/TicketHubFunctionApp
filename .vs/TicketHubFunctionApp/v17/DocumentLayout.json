@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\processticketfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\processticketfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\tickethubfunctionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\tickethubfunctionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\tickethubfunctionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\tickethubfunctionapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|e:\\semester4\\spectop\\tickethubfunctionapp\\tickethubfunctionapp\\models\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA2602-29D0-4E1C-A1FF-F1622DDD0A9F}|TicketHubFunctionApp\\TicketHubFunctionApp.csproj|solutionrelative:tickethubfunctionapp\\models\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\.gitignore",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\.gitignore",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\.gitignore",
+              "RelativeToolTip": "TicketHubFunctionApp\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-13T20:15:27.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketHubFunctionApp",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "RelativeToolTip": "TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T18:11:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketHubFunctionApp",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "RelativeToolTip": "TicketHubFunctionApp\\TicketHubFunctionApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T17:32:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketPurchase.cs",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\models\\TicketPurchase.cs",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\models\\TicketPurchase.cs",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\models\\TicketPurchase.cs",
+              "RelativeToolTip": "TicketHubFunctionApp\\models\\TicketPurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:36:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\local.settings.json",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\local.settings.json",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\local.settings.json",
+              "RelativeToolTip": "TicketHubFunctionApp\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T16:33:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "host.json",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\host.json",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\host.json",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\host.json",
+              "RelativeToolTip": "TicketHubFunctionApp\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T16:33:39.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\Program.cs",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\Program.cs",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\Program.cs",
+              "RelativeToolTip": "TicketHubFunctionApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:33:28.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessTicketFunction.cs",
+              "DocumentMoniker": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\ProcessTicketFunction.cs",
+              "RelativeDocumentMoniker": "TicketHubFunctionApp\\ProcessTicketFunction.cs",
+              "ToolTip": "E:\\Semester4\\SpecTop\\TicketHubFunctionApp\\TicketHubFunctionApp\\ProcessTicketFunction.cs",
+              "RelativeToolTip": "TicketHubFunctionApp\\ProcessTicketFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:32:53.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
